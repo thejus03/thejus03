@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi I'm Thejus 👋
+- I am an undergraduate in CS @ NUS
+- I enjoy building projects that solve real world issues
+- algorithms and ai interest me
 
 <!--
 **thejus03/thejus03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
