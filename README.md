@@ -1,4 +1,4 @@
-## Hi I'm Thejus 👋
+## Hi I'm Thejus 👾
 - I am an undergraduate in CS @ NUS
 - I enjoy building projects that solve real world issues
 - algorithms and ai interest me
