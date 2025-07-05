@@ -27,7 +27,6 @@ I'm a computer science student at the National University of Singapore (NUS)
 [![Java](https://skillicons.dev/icons?i=java)](https://java.com)
 [![C++](https://skillicons.dev/icons?i=cpp)](https://cplusplus.com)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://postgresql.org)
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://mongodb.com)
 
 ### 🛠️ Technologies
 [![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com)
@@ -37,6 +36,7 @@ I'm a computer science student at the National University of Singapore (NUS)
 [![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://mongodb.com)
 [![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)
 [![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://tensorflow.org)
 
