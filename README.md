@@ -16,7 +16,7 @@ I'm a computer science student at the National University of Singapore (NUS)
   - Engineered the AI in `Python` using minimax with alpha-beta pruning, enhanced with Zobrist hashing amongst other optimisations.
   - Evaluates 5-ply moves ahead in <10s latency.
 - [TrackTern](https://tracktern.com)
-  - Developed a full-stack internship tracking platform in `Next.js`, adopted by 300+ users tracking 1500+ internship applications
+  - Developed a full-stack internship tracking platform in `Next.js`, adopted by 600+ users tracking 5000+ internship applications
   - Deployed on `AWS EC2` with a scalable backend using `MongoDB`
 
 ### 📖 Languages
