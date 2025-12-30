@@ -3,7 +3,6 @@
 I'm a computer science student at the National University of Singapore (NUS)
 - I strive to solve complex problems to create real-world impact
 - During my free time, I build new projects or watch movies
-- I'm interested in learning about algorithms and AI
 
 ### 📚 Most recent projects
 - [NUSMods - Timetable Optimiser](https://github.com/nusmodifications/nusmods/tree/master/website/api/optimiser)
