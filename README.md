@@ -4,7 +4,7 @@ I'm a computer science student at the National University of Singapore (NUS)
 - I enjoy solving complex problems to create real-world impact
 - During my free time, I build new projects or watch movies
 
-### 📚 Most recent projects
+### Most recent projects
 - [NUSMods - Timetable Optimiser](https://github.com/nusmodifications/nusmods/tree/master/website/api/optimiser)
   - Engineered a high performance scheduling algorithm in `Go` that searches through millions of combinations to find the most optimal timetable based on user preferences.
   - Developed the frontend in `Typescript` while considering UI/UX for best experience.
@@ -18,7 +18,7 @@ I'm a computer science student at the National University of Singapore (NUS)
   - Developed a full-stack internship tracking platform in `Next.js`, adopted by hundreds of users
   - Deployed on `AWS EC2` with a scalable backend using `MongoDB`
 
-### 📖 Languages
+### Languages
 [![Python](https://skillicons.dev/icons?i=python)](https://python.org)
 [![Go](https://skillicons.dev/icons?i=go)](https://golang.org)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://typescriptlang.org)
@@ -27,7 +27,7 @@ I'm a computer science student at the National University of Singapore (NUS)
 [![C++](https://skillicons.dev/icons?i=cpp)](https://cplusplus.com)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://postgresql.org)
 
-### 🛠️ Technologies
+### Technologies
 [![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com)
 [![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com)
 [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
