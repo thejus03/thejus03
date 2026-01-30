@@ -1,7 +1,7 @@
 # Hi, I'm Thejus 👾🧑🏾‍💻
 
 I'm a computer science student at the National University of Singapore (NUS)
-- I strive to solve complex problems to create real-world impact
+- I enjoy solving complex problems to create real-world impact
 - During my free time, I build new projects or watch movies
 
 ### 📚 Most recent projects
