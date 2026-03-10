@@ -21,23 +21,12 @@ I'm a computer science student at the National University of Singapore (NUS)
 ### Languages
 [![Python](https://skillicons.dev/icons?i=python)](https://python.org)
 [![Go](https://skillicons.dev/icons?i=go)](https://golang.org)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://cplusplus.com)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://typescriptlang.org)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Java](https://skillicons.dev/icons?i=java)](https://java.com)
-[![C++](https://skillicons.dev/icons?i=cpp)](https://cplusplus.com)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://postgresql.org)
 
-### Technologies
-[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com)
-[![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com)
-[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
-[![React](https://skillicons.dev/icons?i=react)](https://react.dev)
-[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
-[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://mongodb.com)
-[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)
-[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://tensorflow.org)
 
 ### Connect with me
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/thejus03)
