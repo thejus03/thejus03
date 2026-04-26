@@ -21,17 +21,5 @@ I'm a computer science student at the National University of Singapore (NUS)
   - Developed a full-stack internship tracking platform in `Next.js`, adopted by hundreds of users
   - Deployed on `AWS EC2` with a scalable backend using `MongoDB`
 
-### Languages
-[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
-[![Go](https://skillicons.dev/icons?i=go)](https://golang.org)
-[![C++](https://skillicons.dev/icons?i=cpp)](https://cplusplus.com)
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://typescriptlang.org)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Java](https://skillicons.dev/icons?i=java)](https://java.com)
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://postgresql.org)
-
-
-### Connect with me
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/thejus03)
 #####  PS: Keybindings 🙃
 [![Vim](https://skillicons.dev/icons?i=vim)](https://www.vim.org/)
