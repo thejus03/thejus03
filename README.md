@@ -7,7 +7,7 @@ I'm a computer science student at the National University of Singapore (NUS)
 ### Most recent projects
 - [NUSMods <> Timetable Optimiser](https://github.com/nusmodifications/nusmods/tree/master/website/api/optimiser)
   - Engineered a high performance scheduling algorithm in `Go` that searches through millions of combinations to find an optimal timetable based on user preferences
-  - Saves over 40,000 NUS students several hours of manually timetable planning every semester
+  - Saves over 40,000 NUS students several hours of manual timetable planning every semester
  
 - [Portfoli-O-matic](https://github.com/thejus03/PortfoliOmatic)
   - Developed a Robo-Adivisor for financial portfolio optimisation in `Python`
