@@ -12,7 +12,7 @@ I'm a computer science student at the National University of Singapore (NUS).
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Recent projects
-- 🎯 **[NUSMods Timetable Optimiser](https://github.com/nusmodifications/nusmods/tree/master/website/api/optimiser)** - Saves over 40,000 NUS students several hours of manual timetable planning every semester
+- 🎯 **[NUSMods Timetable Optimiser](https://github.com/nusmodifications/nusmods/tree/master/website/api/optimiser)** - Saves over 40,000 students several hours of manual timetable planning every semester
 
 - 🌐 **[TrackTern](https://tracktern.com)** - Internship tracking platform adopted by close to a 1000 users
  
