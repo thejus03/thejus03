@@ -14,7 +14,7 @@ I'm a computer science student at the National University of Singapore (NUS).
 ### Recent projects
 - 🎯 **[NUSMods Timetable Optimiser](https://github.com/nusmodifications/nusmods/tree/master/website/api/optimiser)** - Saves over 40,000 students several hours of manual timetable planning every semester
 
-- 🌐 **[TrackTern](https://tracktern.com)** - Internship tracking platform adopted by close to a 1000 users
+- 🖥️ **[TrackTern](https://tracktern.com)** - Internship tracking platform adopted by close to a 1000 users
  
 - 💵 **[Portfoli-O-matic](https://github.com/thejus03/PortfoliOmatic)** - Robo-Adivisor for financial portfolio optimisation in `Python`
  
